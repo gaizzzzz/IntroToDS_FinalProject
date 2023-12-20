@@ -1,3 +1,2 @@
 *.identifier
-.*/
-!/.gitignore
+**/.ipynb_checkpoints/
