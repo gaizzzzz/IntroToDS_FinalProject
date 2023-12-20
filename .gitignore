@@ -1,2 +1,2 @@
-Zone.Identifier
-.ipynb_checkpoints
+**/*.identifier
+**/.ipynb_checkpoints
