@@ -14,15 +14,11 @@ Từ khi xuất hiện đến nay, phim được xem như là *môn nghệ thu�
 ---
 # Cụ thể đồ án
 
-**Chủ đề**:
+**Chủ đề**: Nghiên cứu, tìm hiểu các bài toán liên quan đến phim điện ảnh và phân tích dữ liệu để giải quyết các bài toán đó; mô hình hóa dữ liệu để tìm ra mô hình hiệu suất cao nhất
 
-**Input**: 
+**Nguồn dữ liệu**: https://www.themoviedb.org/movie/
 
-**Output**:
-
-**Nguồn dữ liệu**: 
-
-**Ý tưởng**:
+**Ý tưởng**: Tiền xử lý dữ liệu sau khi crawl; đặt ra các câu hỏi có ý nghĩa và phân tích dữ liệu để giải đáp; mô hình hóa dữ liệu bằng các mô hình khác nhau trong việc dự đoán và phân loại để tìm ra mô hình tốt nhất
 
 ---
 # Tổ chức GitHub
