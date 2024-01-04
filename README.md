@@ -11,6 +11,7 @@
 ---
 # Tổng quan đề tài
 Từ khi xuất hiện đến nay, phim được xem như là *môn nghệ thuật thứ 7* và được rất nhiều người ưa thích. Trong suốt quá trình phát triển của ngành công nghiệp phim ảnh, nó đã trải qua rất nhiều thăng trầm và có rất nhiều bộ phim chất lượng được sản xuất. Tuy nhiên, thị trường phim hiện nay khá là tệ vì đại dịch Covid-19 và các tranh cãi về đề tài phim kém chất lượng. Vì vậy, nhóm quyết định chọn đề tài phim điện ảnh để thực hiện đồ án.
+
 ---
 # Cụ thể đồ án
 
